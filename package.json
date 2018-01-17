@@ -1,0 +1,15 @@
+{
+  "name": "sublime-js-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "My best attempt at replicating the sublime monokai coloring in atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/spencer-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
