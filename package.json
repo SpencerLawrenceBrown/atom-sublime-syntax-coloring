@@ -1,7 +1,7 @@
 {
   "name": "sublime-js-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "My best attempt at replicating the sublime monokai coloring in atom",
   "keywords": [
     "syntax",
